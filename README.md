@@ -3,4 +3,4 @@
 
 
 1.[一个简单的发布订阅模式](https://github.com/chinawzc/Blog/issues/1)    
-2.[学习一下TypeScript](https://github.com/chinawzc/Blog/issues/2)
+2.[Git Workflow](https://github.com/chinawzc/Blog/issues/3)
