@@ -1,5 +1,5 @@
 # Blog
-write something，rather i‘m not sure for whtat 
+write something，rather i‘m not sure do whtat 
 
 
 1.[一个简单的发布订阅模式](https://github.com/chinawzc/Blog/issues/1)    
